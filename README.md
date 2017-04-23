@@ -128,8 +128,8 @@
 <tr>
 <th>Sitemap Test</th>
 <td colspan="2">1 sitemaps files for your website <p> ⟩⟩ http://www.du.ac.in/sitemap.xml 
-<p>
 </td>
+<p>
 </tr>
 
 </tbody></table>

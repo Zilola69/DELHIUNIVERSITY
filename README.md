@@ -12,7 +12,7 @@
 
 <body>
 <div class="container markdown-body">
-      <h1 id="du">DU</h1>
+      <h1 id="du">Delhi University</h1>
 
 <img src="http://www.enaindia.in/uploads/newsfiles/Delhi-University.jpg">
 
@@ -46,6 +46,12 @@
 </tr>
 
 <tr>
+<th>headings</th>
+<td>This webpage contains H2 headings.</td>
+<td>It is good that it has others heading</td>
+</tr>
+
+<tr>
 <th>gzip compression</th>
 <td>it is recommended to use html compression e-g: gzip compression</td>
 <td>this web page is not using html compression. </td>
@@ -57,11 +63,7 @@
 <td>155 internal urls found that are not seo friendly.</td>
 </tr>
 
-<tr>
-<th>keywords</th>
-<td>should appear in your meta-tags to help identify the topic of your webpage to search engines.</td>
-<td>Your most common keywords are not appearing in one or more of the meta-tags above.</td>
-</tr>
+
 
 <tr>
 <th>Underscores in Links Test</th>
@@ -82,6 +84,26 @@
 </tr>
 
 <tr>
+<th>Keywords</th>
+<td>should appear in your meta-tags to help identify the topic of your webpage to search engines.</td>
+<td>Your most common keywords are not appearing in one or more of the meta-tags above.</td>
+</tr>
+
+<tr>
+<th>Keywords Test</th>
+<td>More importantly, the keywords in this page should appear within natural sounding and grammatically correct copy.</td>
+<td>There is likely no optimal keyword density (search engine algorithms have evolved beyond keyword density metrics as a significant ranking factor). It can be useful, however, to note which keywords appear most often in this page, and if they reflect the intended topic of this page.</td>
+</tr>
+
+<tr>
+<th>Keywords Test</th>
+<td>Common keywords are not appearing in one or more of the meta-tags above</td>
+<td>Primary keywords should appear in this meta-tags to help identify the topic of this webpage to search engines. <p>
+<p> ⟩⟩  Keyword(s) not included in Meta-Title <p> 
+⟩⟩  Keyword(s) not included in Meta-Description</td>
+</tr>
+
+<tr>
 <th>WWW redirection Test</th>
 <td>Redirect is not place to redirect traffic from your non-preferred domain.</td>
 <td>This website does not directs www.du.ac.in and du.ac.in to the same URL.</td>
@@ -94,10 +116,71 @@
 </tr>
 
 <tr>
-<th>admin email</th>
-<td colspan="2"></td>
+<th>Google Search Results Preview</th>
+<td colspan="2">Home - University of Delhi http://www.du.ac.in/</td>
 </tr>
+
+<tr>
+<th>Robots.txt Test</th>
+<td colspan="2">This site use a "robots.txt" file: http://du.ac.in/robots.txt</td>
+</tr>
+
+<tr>
+<th>Sitemap Test</th>
+<td colspan="2">1 sitemaps files for your website <p> ⟩⟩ http://www.du.ac.in/sitemap.xml </td>
+</tr>
+
 </tbody></table>
+
+<p> <p>
+
+<img src="http://www.clipartbest.com/cliparts/yik/6Ad/yik6Adx6T.png">
+
+
+<table>
+<tbody>
+
+<tr>
+<th colspan="3"><marquee direction="right">MozRank Checker</marquee></th>
+</tr>
+
+<tr>
+<th>URL:</th>
+<th>Domain Authority(Max = 100)</th>
+<th>Moz Rank</th>
+</tr>
+
+<tr>
+<th>http://www.du.ac.in/</th>
+<td>60.11</td>
+<td>5.72</td>
+</tr>
+
+</tbody>
+</table>
+
+<table>
+<tbody>
+
+<tr>
+<th colspan="3"><marquee direction="right">Domain Age Checker</marquee></th>
+</tr>
+
+<tr>
+<th>Domain Created on :</th>
+<th>Age</th>
+<th>Domain Updated on :</th>
+</tr>
+
+<tr>
+<th>NIL</th>
+<td>NIL</td>
+<td>NIL</td>
+</tr>
+
+</tbody>
+</table>
 
 </div>
 </body></html>
+

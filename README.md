@@ -127,7 +127,9 @@
 
 <tr>
 <th>Sitemap Test</th>
-<td colspan="2">1 sitemaps files for your website <p> ⟩⟩ http://www.du.ac.in/sitemap.xml </td>
+<td colspan="2">1 sitemaps files for your website <p> ⟩⟩ http://www.du.ac.in/sitemap.xml 
+<p>
+</td>
 </tr>
 
 </tbody></table>
@@ -136,6 +138,7 @@
 
 <img src="http://www.clipartbest.com/cliparts/yik/6Ad/yik6Adx6T.png">
 
+<p>
 
 <table>
 <tbody>
